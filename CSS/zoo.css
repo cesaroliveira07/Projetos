@@ -3,11 +3,12 @@
 .nav1
  { 
    list-style-type:none;
-   margin: auto;
-   padding: auto;
-   width: auto;
-   text-align: right;
-   background-color: #f1f1f1;  
+   margin: 1%;
+   padding: 1%;
+   width: 50%;
+   text-align: left;
+   text-size-adjust: 50%;
+   /** background-color: #f1f1f1;  **/
     
   }
 
@@ -20,7 +21,7 @@
      {
          text-align: center;
          width: auto;
-         height: auto;
+         height: 200px;
          min-height: auto;
          margin-bottom: auto;
          text-size-adjust: auto;
